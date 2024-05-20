@@ -36,33 +36,6 @@ Conclusion
 This project underscores my expertise and dedication as an individual committed to the advancement of sustainable energy practices through data analytics. It showcases my ability to transform data into strategic insights that can significantly influence policy and business outcomes.
 
 ## Dashboard Visualizations
-
 ### Dashboard 1: Overall Energy Consumption Trends
-![Overall Energy Consumption Trends](/dashboards/Dashboard_1.png)
+![Overall Energy Consumption Trends](https://raw.githubusercontent.com/Tanay-Shah-Raj/Global-Energy-Consumption-Navigating-the-Path-to-Sustainability/master/Dashboard%201.png)
 
-### Dashboard 2: Detailed Analysis of Renewable Usage
-![Detailed Analysis of Renewable Usage](/dashboards/Dashboard_2.png)
-
-### Dashboard 3: Energy Consumption Forecast
-![Energy Consumption Forecast](/dashboards/Dashboard_3.png)
-
-### Dashboard 4: Comparison by Region
-![Comparison by Region](/dashboards/Dashboard_4.png)
-
-### Dashboard 5: Impact Analysis of Energy Policies
-![Impact Analysis of Energy Policies](/dashboards/Dashboard_5.png)
-
-### Dashboard 6: Renewable Energy Growth Projections
-![Renewable Energy Growth Projections](/dashboards/Dashboard_6.png)
-
-### Dashboard 7: Energy Efficiency Improvements
-![Energy Efficiency Improvements](/dashboards/Dashboard_7.png)
-
-### Dashboard 8: Historical Data Analysis
-![Historical Data Analysis](/dashboards/Dashboard_8.png)
-
-### Dashboard 9: Energy Price Fluctuations
-![Energy Price Fluctuations](/dashboards/Dashboard_9.png)
-
-### Dashboard 10: Consumer Energy Usage Patterns
-![Consumer Energy Usage Patterns](/dashboards/Dashboard_10.png)
