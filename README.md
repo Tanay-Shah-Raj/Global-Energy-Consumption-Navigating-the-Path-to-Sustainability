@@ -36,6 +36,35 @@ Conclusion
 This project underscores my expertise and dedication as an individual committed to the advancement of sustainable energy practices through data analytics. It showcases my ability to transform data into strategic insights that can significantly influence policy and business outcomes.
 
 ## Dashboard Visualizations
-### Dashboard 1: Overall Energy Consumption Trends
-![Overall Energy Consumption Trends](https://raw.githubusercontent.com/Tanay-Shah-Raj/Global-Energy-Consumption-Navigating-the-Path-to-Sustainability/master/Dashboard%201.png)
+
+### 1. Total Energy Consumption around the World in 2019
+![Total Energy Consumption around the World in 2019](https://github.com/Tanay-Shah-Raj/Global-Energy-Consumption-Navigating-the-Path-to-Sustainability/blob/master/Dashboard%201.png?raw=true)
+
+### 2. Global Energy Consumption by Source
+![Global Energy Consumption by Source](https://github.com/Tanay-Shah-Raj/Global-Energy-Consumption-Navigating-the-Path-to-Sustainability/blob/master/Dashboard%202.png?raw=true)
+
+### 3. Total Energy Consumption around the World Per Capita
+![Total Energy Consumption around the World Per Capita](https://github.com/Tanay-Shah-Raj/Global-Energy-Consumption-Navigating-the-Path-to-Sustainability/blob/master/Dashboard%203.png?raw=true)
+
+### 4. Annual Change in Energy Consumption
+![Annual Change in Energy Consumption](https://github.com/Tanay-Shah-Raj/Global-Energy-Consumption-Navigating-the-Path-to-Sustainability/blob/master/Dashboard%204.png?raw=true)
+
+### 5. Top 10 Countries in Energy Consumption
+![Top 10 Countries in Energy Consumption](https://github.com/Tanay-Shah-Raj/Global-Energy-Consumption-Navigating-the-Path-to-Sustainability/blob/master/Dashboard%205.png?raw=true)
+
+### 6. Fossil Fuel Consumption around the World
+![Fossil Fuel Consumption around the World](https://github.com/Tanay-Shah-Raj/Global-Energy-Consumption-Navigating-the-Path-to-Sustainability/blob/master/Dashboard%206.png?raw=true)
+
+### 7. Renewable Energy Consumption around the World
+![Renewable Energy Consumption around the World](https://github.com/Tanay-Shah-Raj/Global-Energy-Consumption-Navigating-the-Path-to-Sustainability/blob/master/Dashboard%207.png?raw=true)
+
+### 8. Dependency Shift from Fossil Consumption to Renewables
+![Dependency Shift from Fossil Consumption to Renewables](https://github.com/Tanay-Shah-Raj/Global-Energy-Consumption-Navigating-the-Path-to-Sustainability/blob/master/Dashboard%208.png?raw=true)
+
+### 9. Renewables Ratio by Country
+![Renewables Ratio by Country](https://github.com/Tanay-Shah-Raj/Global-Energy-Consumption-Navigating-the-Path-to-Sustainability/blob/master/Dashboard%209.png?raw=true)
+
+### 10. Key Influencers of Energy Consumption Increase
+![Key Influencers of Energy Consumption Increase](https://github.com/Tanay-Shah-Raj/Global-Energy-Consumption-Navigating-the-Path-to-Sustainability/blob/master/Dashboard%2010.png?raw=true)
+
 
