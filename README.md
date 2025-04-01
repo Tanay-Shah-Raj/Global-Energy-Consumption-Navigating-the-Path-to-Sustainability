@@ -59,83 +59,23 @@ These insights directly supported policy recommendations and investment strategi
 
 <table>
   <tr>
-    <td align="center">
+    <td>
       <a href="https://github.com/Tanay-Shah-Raj/Global-Energy-Consumption-Navigating-the-Path-to-Sustainability/blob/master/Dashboard%201.png?raw=true" target="_blank">
         <img src="https://github.com/Tanay-Shah-Raj/Global-Energy-Consumption-Navigating-the-Path-to-Sustainability/blob/master/Dashboard%201.png?raw=true" alt="Total Energy Consumption around the World in 2019" style="width:100%;max-width:500px;"/>
       </a>
-      <br/>Total Energy Consumption around the World in 2019
-      <br/><b>Insight:</b> Reveals significant disparity in energy consumption between developed and developing nations, with North America and Europe showing disproportionately high consumption relative to population.
+      <div align="left">
+        <b>Total Energy Consumption around the World in 2019</b><br/>
+        <b>Insight:</b> Reveals significant disparity in energy consumption between developed and developing nations, with North America and Europe showing disproportionately high consumption relative to population.
+      </div>
     </td>
-    <td align="center">
+    <td>
       <a href="https://github.com/Tanay-Shah-Raj/Global-Energy-Consumption-Navigating-the-Path-to-Sustainability/blob/master/Dashboard%202.png?raw=true" target="_blank">
         <img src="https://github.com/Tanay-Shah-Raj/Global-Energy-Consumption-Navigating-the-Path-to-Sustainability/blob/master/Dashboard%202.png?raw=true" alt="Global Energy Consumption by Source" style="width:100%;max-width:500px;"/>
       </a>
-      <br/>Global Energy Consumption by Source
-      <br/><b>Insight:</b> Despite growth in renewables, fossil fuels still dominate the global energy mix, with oil, coal, and natural gas accounting for over 80% of consumption.
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Tanay-Shah-Raj/Global-Energy-Consumption-Navigating-the-Path-to-Sustainability/blob/master/Dashboard%203.png?raw=true" target="_blank">
-        <img src="https://github.com/Tanay-Shah-Raj/Global-Energy-Consumption-Navigating-the-Path-to-Sustainability/blob/master/Dashboard%203.png?raw=true" alt="Total Energy Consumption around the World Per Capita" style="width:100%;max-width:500px;"/>
-      </a>
-      <br/>Total Energy Consumption around the World Per Capita
-      <br/><b>Insight:</b> Per capita consumption highlights efficiency opportunities, with Nordic countries showing high energy use but also leading renewable integration.
-    </td>
-    <td align="center">
-      <a href="https://github.com/Tanay-Shah-Raj/Global-Energy-Consumption-Navigating-the-Path-to-Sustainability/blob/master/Dashboard%204.png?raw=true" target="_blank">
-        <img src="https://github.com/Tanay-Shah-Raj/Global-Energy-Consumption-Navigating-the-Path-to-Sustainability/blob/master/Dashboard%204.png?raw=true" alt="Annual Change in Energy Consumption" style="width:100%;max-width:500px;"/>
-      </a>
-      <br/>Annual Change in Energy Consumption
-      <br/><b>Insight:</b> Trend analysis shows accelerating transition to cleaner energy sources, with year-over-year renewable growth averaging 7.2% globally.
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Tanay-Shah-Raj/Global-Energy-Consumption-Navigating-the-Path-to-Sustainability/blob/master/Dashboard%205.png?raw=true" target="_blank">
-        <img src="https://github.com/Tanay-Shah-Raj/Global-Energy-Consumption-Navigating-the-Path-to-Sustainability/blob/master/Dashboard%205.png?raw=true" alt="Top 10 Countries in Energy Consumption" style="width:100%;max-width:500px;"/>
-      </a>
-      <br/>Top 10 Countries in Energy Consumption
-      <br/><b>Insight:</b> China and the United States together account for over 40% of global energy consumption, highlighting the critical importance of their energy policies.
-    </td>
-    <td align="center">
-      <a href="https://github.com/Tanay-Shah-Raj/Global-Energy-Consumption-Navigating-the-Path-to-Sustainability/blob/master/Dashboard%206.png?raw=true" target="_blank">
-        <img src="https://github.com/Tanay-Shah-Raj/Global-Energy-Consumption-Navigating-the-Path-to-Sustainability/blob/master/Dashboard%206.png?raw=true" alt="Fossil Fuel Consumption around the World" style="width:100%;max-width:500px;"/>
-      </a>
-      <br/>Fossil Fuel Consumption around the World
-      <br/><b>Insight:</b> Industrial regions show the highest fossil fuel dependency, with many developing nations increasing coal usage despite global reduction targets.
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Tanay-Shah-Raj/Global-Energy-Consumption-Navigating-the-Path-to-Sustainability/blob/master/Dashboard%207.png?raw=true" target="_blank">
-        <img src="https://github.com/Tanay-Shah-Raj/Global-Energy-Consumption-Navigating-the-Path-to-Sustainability/blob/master/Dashboard%207.png?raw=true" alt="Renewable Energy Consumption around the World" style="width:100%;max-width:500px;"/>
-      </a>
-      <br/>Renewable Energy Consumption around the World
-      <br/><b>Insight:</b> Countries with strong policy incentives show dramatically higher renewable adoption rates, demonstrating the effectiveness of regulatory frameworks.
-    </td>
-    <td align="center">
-      <a href="https://github.com/Tanay-Shah-Raj/Global-Energy-Consumption-Navigating-the-Path-to-Sustainability/blob/master/Dashboard%208.png?raw=true" target="_blank">
-        <img src="https://github.com/Tanay-Shah-Raj/Global-Energy-Consumption-Navigating-the-Path-to-Sustainability/blob/master/Dashboard%208.png?raw=true" alt="Dependency Shift from Fossil Consumption to Renewables" style="width:100%;max-width:500px;"/>
-      </a>
-      <br/>Dependency Shift from Fossil Consumption to Renewables
-      <br/><b>Insight:</b> The transition timeline varies significantly by region, with Europe leading the shift while Middle Eastern countries maintain high fossil fuel dependency.
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Tanay-Shah-Raj/Global-Energy-Consumption-Navigating-the-Path-to-Sustainability/blob/master/Dashboard%209.png?raw=true" target="_blank">
-        <img src="https://github.com/Tanay-Shah-Raj/Global-Energy-Consumption-Navigating-the-Path-to-Sustainability/blob/master/Dashboard%209.png?raw=true" alt="Renewables Ratio by Country" style="width:100%;max-width:500px;"/>
-      </a>
-      <br/>Renewables Ratio by Country
-      <br/><b>Insight:</b> Countries with similar economic profiles show vastly different renewable adoption rates, indicating the importance of policy and cultural factors beyond economic considerations.
-    </td>
-    <td align="center">
-      <a href="https://github.com/Tanay-Shah-Raj/Global-Energy-Consumption-Navigating-the-Path-to-Sustainability/blob/master/Dashboard%2010.png?raw=true" target="_blank">
-        <img src="https://github.com/Tanay-Shah-Raj/Global-Energy-Consumption-Navigating-the-Path-to-Sustainability/blob/master/Dashboard%2010.png?raw=true" alt="Key Influencers of Energy Consumption Increase" style="width:100%;max-width:500px;"/>
-      </a>
-      <br/>Key Influencers of Energy Consumption Increase
-      <br/><b>Insight:</b> Analysis of driving factors reveals industrial growth and urbanization as primary consumption drivers, suggesting targeted efficiency improvements for these sectors.
+      <div align="left">
+        <b>Global Energy Consumption by Source</b><br/>
+        <b>Insight:</b> Despite growth in renewables, fossil fuels still dominate the global energy mix, with oil, coal, and natural gas accounting for over 80% of consumption.
+      </div>
     </td>
   </tr>
 </table>
